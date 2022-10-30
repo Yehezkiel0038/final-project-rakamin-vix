@@ -1,2 +1,3 @@
 # final-project-rakamin-vix
- HCI
+
+Berikut ini merupakan file ipynb untuk Final Project HCI
